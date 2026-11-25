@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 560">
+  <defs>
+    <linearGradient id="jar" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff5c8" stop-opacity=".85"/><stop offset=".35" stop-color="#d9941e"/><stop offset=".78" stop-color="#b66a12"/><stop offset="1" stop-color="#874809"/></linearGradient>
+    <linearGradient id="glass" x2="1"><stop stop-color="#fff" stop-opacity=".85"/><stop offset=".24" stop-color="#fff" stop-opacity=".1"/><stop offset=".77" stop-color="#fbe8b6" stop-opacity=".1"/><stop offset="1" stop-color="#fff" stop-opacity=".52"/></linearGradient>
+    <linearGradient id="lid" x2="0" y2="1"><stop stop-color="#f8d774"/><stop offset="1" stop-color="#bd7c19"/></linearGradient>
+  </defs>
+  <ellipse cx="309" cy="483" rx="150" ry="25" fill="#74521e" opacity=".17"/>
+  <g fill="none" stroke="#9e792f" stroke-linecap="round" opacity=".7" stroke-width="4"><path d="M87 438c-9-67 4-135 35-199m-27 110-38-34m49-24 34-42m-43 99-43 13"/><path d="M506 451c14-81 9-147-17-220m8 121 42-38m-46-32-37-48m45 113 40 19"/></g>
+  <g fill="#fffaf0"><g transform="translate(96 235)"><circle cy="-13" r="10"/><circle cx="13" cy="-3" r="10"/><circle cx="8" cy="12" r="10"/><circle cx="-8" cy="12" r="10"/><circle cx="-13" cy="-3" r="10"/><circle r="6" fill="#e1ae37"/></g><g transform="translate(487 229) scale(.8)"><circle cy="-13" r="10"/><circle cx="13" cy="-3" r="10"/><circle cx="8" cy="12" r="10"/><circle cx="-8" cy="12" r="10"/><circle cx="-13" cy="-3" r="10"/><circle r="6" fill="#e1ae37"/></g><g transform="translate(74 366) scale(.65)"><circle cy="-13" r="10"/><circle cx="13" cy="-3" r="10"/><circle cx="8" cy="12" r="10"/><circle cx="-8" cy="12" r="10"/><circle cx="-13" cy="-3" r="10"/><circle r="6" fill="#e1ae37"/></g></g>
+  <g transform="translate(142 68)">
+    <path fill="#75450f" d="M107 53V34c0-10 8-18 18-18h82c10 0 18 8 18 18v19l26 36v259c0 25-20 45-45 45H126c-25 0-45-20-45-45V89l26-36Z"/>
+    <path fill="url(#jar)" d="M110 57h212l20 36v255c0 20-16 36-36 36H126c-20 0-36-16-36-36V93l20-36Z"/>
+    <path fill="url(#glass)" d="M110 57h212l20 36v255c0 20-16 36-36 36H126c-20 0-36-16-36-36V93l20-36Z"/>
+    <path fill="url(#lid)" d="M118 22c0-8 7-14 15-14h66c8 0 15 6 15 14v29H118V22Z"/><path fill="#9f6215" d="M113 47h105v11H113z" opacity=".7"/>
+    <path fill="#fff8e8" d="M111 161h212v143H111z"/><path fill="#f3e5c4" d="M111 161h212v13H111z"/>
+    <path fill="#a96812" d="M211 191c-12 20-30 38-30 56a30 30 0 0 0 60 0c0-18-18-36-30-56Z"/><path fill="#fff3cd" d="M211 204c-6 10-17 23-17 38a17 17 0 0 0 17 17c-9-8-9-20 0-55Z"/>
+    <text x="217" y="275" fill="#563613" font-family="Georgia,serif" font-size="16" font-weight="bold" text-anchor="middle">PURE HONEY</text><text x="217" y="291" fill="#9b7a4b" font-family="Arial,sans-serif" font-size="8" letter-spacing="2" text-anchor="middle">SUNDARBAN · 100% PURE</text>
+    <path fill="#fff" d="M119 77c-7 54-7 184 0 296 4 10 12 13 14 1-5-104-5-229 0-286 0-14-10-22-14-11Z" opacity=".33"/><path fill="#fff" d="M318 99v143" stroke="#fff" stroke-linecap="round" stroke-width="5" opacity=".28"/>
+  </g>
+  <g fill="#fff8e8" opacity=".9"><circle cx="142" cy="142" r="3"/><circle cx="467" cy="335" r="4"/><circle cx="442" cy="118" r="3"/><circle cx="129" cy="318" r="2"/></g>
+</svg>
